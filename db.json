@@ -1,0 +1,80 @@
+{
+    "icon": [{
+            "id": "ui essential",
+            "image": "Flag.svg",
+            "Name": "Flag"
+        },
+        {
+            "image": "Home 2.svg",
+            "Name": "Home"
+        },
+        {
+            "image": "Home 3.svg",
+            "Name": "Home"
+        },
+        {
+            "image": "home.svg",
+            "Name": "Home"
+        },
+        {
+            "image": "Notification off.svg",
+            "Name": "Notif Off"
+        },
+        {
+            "image": "Notification.svg",
+            "Name": "Notif"
+        },
+        {
+            "image": "Trash Bin 2.svg",
+            "Name": "Trash"
+        },
+        {
+            "image": "Trash Bin 3.svg",
+            "Name": "Trash"
+        },
+        {
+            "image": "Trash Bin.svg",
+            "Name": "Trash"
+        },
+        {
+            "image": "Access Card.svg",
+            "Name": "Access Card"
+        },
+        {
+            "image": "Calculator 2.svg",
+            "Name": "Calculator"
+        },
+        {
+            "image": "Calculator.svg",
+            "Name": "Calculator"
+        },
+        {
+            "image": "Credit Card.svg",
+            "Name": "Credit Card"
+        },
+        {
+            "image": "Debit Card.svg",
+            "Name": "Debit Card"
+        },
+        {
+            "image": "ID Card.svg",
+            "Name": "ID Card"
+        },
+        {
+            "image": "Identity Card.svg",
+            "Name": "ID Card"
+        },
+        {
+            "image": "Mens Bag.svg",
+            "Name": "mens Bag"
+        },
+        {
+            "image": "Office Building 2.svg",
+            "Name": "Office Building"
+        },
+        {
+            "image": "Office Building.svg",
+            "Name": "Office Building"
+        }
+    ]
+}
